@@ -1,5 +1,5 @@
 # linux
 ### suzhenpu
 ```
-welconme my github
+welconme to my github
 ```
